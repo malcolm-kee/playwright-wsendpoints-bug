@@ -1,0 +1,9 @@
+{
+  "name": "playwright-wsendpoints-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^0.9.24"
+  }
+}
